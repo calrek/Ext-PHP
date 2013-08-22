@@ -1,6 +1,5 @@
 Ext-PHP Version 0.1
 Extjs framework for rapidly build web application using Extjs Library
-build and Development By http://indowebit.com
 
 
 INSTALATION
